@@ -28,7 +28,7 @@ switch($dogType) {
         break;
 
     default:
-        header('Location: index.php?result=Невідома порода');
+        header('Location: ../index.php?result=Невідома порода');
         exit;
 }
 
@@ -40,8 +40,8 @@ switch($action) {
         $result = $dog->hunt();
         break;
     default:
-        header('Location: index.php?result=Невідома дія');
+        header('Location: ../index.php?result=Невідома дія');
         exit;
 }
 
-header('Location: index.php?result=' . urlencode($result));
+header('Location: ../index.php?result=' . urlencode($result));

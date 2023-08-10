@@ -6,7 +6,7 @@
     <title>Додаток про собак</title>
 </head>
 <body>
-    <form action="process.php" method="post">
+    <form action="./src/process.php" method="post">
         <label for="dog_type">Виберіть породу собаки:</label>
         <select id="dog_type" name="dog_type">
             <option value="shiba-inu">Сіба-Іну</option>

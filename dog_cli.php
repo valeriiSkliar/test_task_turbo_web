@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-require_once 'AllDogs.php';
+require_once 'src/AllDogs.php';
 
 if ($argc < 3) {
     echo "Usage: dog_cli.php [dog type] [action]\n";
