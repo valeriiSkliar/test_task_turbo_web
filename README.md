@@ -12,5 +12,5 @@
 | shiba-inu      | sound,hunt |
 | mops           | sound      |
 | taxa           | sound,hunt |
-| plush_labrador | --         |
+| plush_labrador | -  -       |
 | rubber_taxa    | sound      |
