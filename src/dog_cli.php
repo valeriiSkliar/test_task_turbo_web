@@ -1,7 +1,6 @@
 #!/usr/bin/env php
 <?php
 
-require_once 'Dog.php';
 require_once 'AllDogs.php';
 
 if ($argc < 3) {

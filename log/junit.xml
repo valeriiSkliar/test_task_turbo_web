@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" tests="10" assertions="10" errors="0" failures="0" skipped="0" time="0.000255">
-    <testcase name="testShibaInuSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="10" assertions="1" time="0.000079"/>
+  <testsuite name="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" tests="10" assertions="10" errors="0" failures="0" skipped="0" time="0.000324">
+    <testcase name="testShibaInuSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="10" assertions="1" time="0.000077"/>
     <testcase name="testShibaInuHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="15" assertions="1" time="0.000021"/>
-    <testcase name="testMopsSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="20" assertions="1" time="0.000019"/>
+    <testcase name="testMopsSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="20" assertions="1" time="0.000018"/>
     <testcase name="testMopsHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="25" assertions="1" time="0.000018"/>
-    <testcase name="testTaxaSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="30" assertions="1" time="0.000037"/>
-    <testcase name="testTaxaHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="35" assertions="1" time="0.000018"/>
-    <testcase name="testPlushLabradorSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="40" assertions="1" time="0.000014"/>
-    <testcase name="testPlushLabradorHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="45" assertions="1" time="0.000018"/>
-    <testcase name="testRubberTaxaWithSqueakerSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="50" assertions="1" time="0.000017"/>
-    <testcase name="testRubberTaxaWithSqueakerHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="55" assertions="1" time="0.000014"/>
+    <testcase name="testTaxaSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="30" assertions="1" time="0.000018"/>
+    <testcase name="testTaxaHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="35" assertions="1" time="0.000034"/>
+    <testcase name="testPlushLabradorSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="40" assertions="1" time="0.000017"/>
+    <testcase name="testPlushLabradorHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="45" assertions="1" time="0.000048"/>
+    <testcase name="testRubberTaxaWithSqueakerSound" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="50" assertions="1" time="0.000056"/>
+    <testcase name="testRubberTaxaWithSqueakerHunt" class="DogTests" classname="DogTests" file="/var/www/html/test_task_turbo_web/test/DogTests.php" line="55" assertions="1" time="0.000017"/>
   </testsuite>
 </testsuites>
